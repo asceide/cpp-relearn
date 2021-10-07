@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(hello_world hello_world.cpp)
 
-include_directories(../bjorneheaders)
+include_directories(../../bjorneheaders)
